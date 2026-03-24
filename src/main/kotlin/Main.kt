@@ -6,11 +6,7 @@ import kotlin.reflect.typeOf
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
-  println("Enter what u want")
-    var thing:String?=null
-    thing=readLine()
-    var count=thing?.length
-    println("the result is $count")
+
 
 
 //        var a: String? = "Hello"
